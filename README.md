@@ -22,17 +22,32 @@
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode"/>
 </p>
 ---
-# 🎯 Current Focus
-🛡️ Security Operations
-🔎 Threat Intelligence
-🐍 Python Automation
-🌐 Network Defense
-⚡ Detection Engineering
-📚 Continuous Learning
+# WKT12 Cyber Operations Manual
+
+![Cover](../artwork/cyber-operations-manual.png)
+
+## Description
+
+This episode explores practical cyber operations, defensive strategies, and building repeatable workflows for security teams.
+
+## Topics
+
+- SOC Operations
+- Detection Engineering
+- Threat Intelligence
+- Incident Response
+- Python Automation
+
+## Resources
+
+- WKT12.tech
+- Related GitHub projects
+
+## Listen
+
+Spotify • Apple Podcasts • RSS
 ---
-# 🚀 Current Project
-## WKT12.tech
-Building practical cybersecurity tools and educational content focused on automation, blue-team operations, and real-world security workflows.
+
 ---
 # 📊 GitHub Statistics
 <p align="center">
@@ -54,23 +69,6 @@ Building practical cybersecurity tools and educational content focused on automa
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=wkt21&theme=tokyonight&no-frame=true&column=4"/>
 </p>
----
-# 🌱 Currently Learning
-- Detection Engineering
-- Malware Analysis
-- Threat Hunting
-- Cloud Security
-- Advanced Python
-- SIEM Automation
----
-# 📂 Featured Repositories
-| Repository | Description |
-|------------|-------------|
-| 🚀 WKT12.tech | Cybersecurity platform |
-| 🐍 Python Tools | Automation and scripting |
-| 🔎 OSINT | Intelligence utilities |
-| 🌐 Networking | Security labs |
-| 📚 Write-ups | Research and notes |
 ---
 # 💡 Favorite Quote
 > "Security isn't about being unbreakable—it's about being resilient."
