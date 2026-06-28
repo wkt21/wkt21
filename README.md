@@ -129,6 +129,3 @@ Current Project
 Philosophy
 
 Build. Defend. Automate. Improve.
-
-:::
-This gives your profile a cleaner, developer-focused look with no emojis—just code, badges, and shields. It also matches the style used by many professional GitHub profiles while keeping your Python introduction as the centerpiece.
