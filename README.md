@@ -64,15 +64,6 @@ Spotify • Apple Podcasts • RSS
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wkt21&theme=tokyo-night&hide_border=true"/>
 </p>
----
-# 🏆 Achievements
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=wkt21&theme=tokyonight&no-frame=true&column=4"/>
-</p>
----
-# 💡 Favorite Quote
-> "Security isn't about being unbreakable—it's about being resilient."
----
 # 🤝 Connect
 <p align="center">
 <a href="https://github.com/wkt21">
