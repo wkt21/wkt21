@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="3E10674F-B937-4BD2-A05D-81FDF8AF7B20" src="https://github.com/user-attachments/assets/b7fb0296-fd7b-46aa-8c89-b6a9013e7204" />
 
 <div align="center">
 # 👋 Hi, I'm Frank Francis
