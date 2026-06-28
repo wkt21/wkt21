@@ -1,33 +1,12 @@
 <div align="center">
 # 👋 Hi, I'm Frank Francis
 ### 🛡️ Cybersecurity Practitioner • Python Developer • Threat Intelligence • SOC Engineering
+    
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=00FF41&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Cybersecurity+Practitioner;SOC+Engineering;Threat+Intelligence;Python+Automation;OSINT;Always+Building..." />
 <img src="https://komarev.com/ghpvc/?username=wkt21&label=Profile%20Views&color=0e75b6&style=flat"/>
 </div>
 ---
-# 👨‍💻 About Me
-```python
-class FrankFrancis:
-    def __init__(self):
-        self.role = "Cybersecurity Practitioner"
-        self.location = "Steubenville, Ohio"
-        self.specialties = [
-            "SOC Engineering",
-            "Threat Intelligence",
-            "OSINT",
-            "Python Automation",
-            "Network Security",
-            "Malware Analysis",
-            "Detection Engineering"
-        ]
-        self.current_project = "WKT12.tech"
-    def philosophy(self):
-        return (
-            "Build it. Defend it. Automate it."
-        )
-me = FrankFrancis()
-print(me.philosophy())
-```
+
 ---
 # 🛠 Tech Stack
 ### Languages
