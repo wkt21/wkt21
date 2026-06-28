@@ -1,9 +1,9 @@
+
 <div align="center">
 # 👋 Hi, I'm Frank Francis
-### 🛡️ Cybersecurity Practitioner • Python Developer • SOC Engineering • Threat Intelligence
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Cybersecurity+Practitioner;SOC+Engineering;Threat+Intelligence;Python+Automation;OSINT+Research;Network+Security;Always+Learning..." />
----
-> *"I don't just study cybersecurity. I build it, automate it, break it, and rebuild it stronger."*
+### 🛡️ Cybersecurity Practitioner • Python Developer • Threat Intelligence • SOC Engineering
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=00FF41&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Cybersecurity+Practitioner;SOC+Engineering;Threat+Intelligence;Python+Automation;OSINT;Always+Building..." />
+<img src="https://komarev.com/ghpvc/?username=wkt21&label=Profile%20Views&color=0e75b6&style=flat"/>
 </div>
 ---
 # 👨‍💻 About Me
@@ -12,47 +12,49 @@ class FrankFrancis:
     def __init__(self):
         self.role = "Cybersecurity Practitioner"
         self.location = "Steubenville, Ohio"
-        self.focus = [
+        self.specialties = [
             "SOC Engineering",
             "Threat Intelligence",
             "OSINT",
             "Python Automation",
             "Network Security",
             "Malware Analysis",
-            "Incident Response"
+            "Detection Engineering"
         ]
         self.current_project = "WKT12.tech"
-    def mission(self):
-        return "Build. Defend. Automate. Learn."
+    def philosophy(self):
+        return (
+            "Build it. Defend it. Automate it."
+        )
+me = FrankFrancis()
+print(me.philosophy())
 ```
 ---
-# 🛡️ Technical Skills
+# 🛠 Tech Stack
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,bash,powershell" />
+<img src="https://skillicons.dev/icons?i=python,bash,powershell"/>
 </p>
 ### Operating Systems
 <p>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows"/>
 </p>
-### Tools
+### Development
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode"/>
 </p>
 ---
-# 🎯 Areas of Interest
-- 🛡️ Security Operations (SOC)
-- 🔎 Open Source Intelligence (OSINT)
-- 🧠 Threat Intelligence
-- 🐍 Python Automation
-- 🌐 Network Security
-- 🦠 Malware Analysis
-- 📜 Detection Engineering
-- ⚙️ Blue Team Operations
+# 🎯 Current Focus
+🛡️ Security Operations
+🔎 Threat Intelligence
+🐍 Python Automation
+🌐 Network Defense
+⚡ Detection Engineering
+📚 Continuous Learning
 ---
 # 🚀 Current Project
 ## WKT12.tech
-Building practical cybersecurity tools, automation, educational resources, and defensive solutions.
+Building practical cybersecurity tools and educational content focused on automation, blue-team operations, and real-world security workflows.
 ---
 # 📊 GitHub Statistics
 <p align="center">
@@ -60,37 +62,42 @@ Building practical cybersecurity tools, automation, educational resources, and d
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkt21&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 ---
-# 🔥 Contribution Streak
+# 🔥 GitHub Streak
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=wkt21&theme=tokyonight&hide_border=true"/>
 </p>
 ---
-# 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=wkt21&theme=tokyonight&no-frame=true&row=2&column=4"/>
-</p>
----
-# 📈 Activity Graph
+# 📈 Contribution Graph
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wkt21&theme=tokyo-night&hide_border=true"/>
 </p>
 ---
-# 📚 Currently Learning
+# 🏆 Achievements
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=wkt21&theme=tokyonight&no-frame=true&column=4"/>
+</p>
+---
+# 🌱 Currently Learning
 - Detection Engineering
+- Malware Analysis
 - Threat Hunting
-- Malware Reverse Engineering
 - Cloud Security
-- Python Security Tooling
+- Advanced Python
+- SIEM Automation
 ---
-# 🌟 Featured Projects
-| Project | Description |
-|---------|-------------|
-| 🛡️ WKT12.tech | Cybersecurity platform |
-| 🐍 Python Automation | Security automation scripts |
-| 🔎 OSINT | Intelligence collection tools |
-| 🌐 Networking | Security labs and utilities |
+# 📂 Featured Repositories
+| Repository | Description |
+|------------|-------------|
+| 🚀 WKT12.tech | Cybersecurity platform |
+| 🐍 Python Tools | Automation and scripting |
+| 🔎 OSINT | Intelligence utilities |
+| 🌐 Networking | Security labs |
+| 📚 Write-ups | Research and notes |
 ---
-# 🤝 Let's Connect
+# 💡 Favorite Quote
+> "Security isn't about being unbreakable—it's about being resilient."
+---
+# 🤝 Connect
 <p align="center">
 <a href="https://github.com/wkt21">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -98,14 +105,7 @@ Building practical cybersecurity tools, automation, educational resources, and d
 </p>
 ---
 <div align="center">
-### 💡 Philosophy
-> **Secure what matters.**
->
-> **Automate the repetitive.**
->
-> **Learn continuously.**
->
-> **Share knowledge freely.**
----
-⭐ Thanks for visiting my profile!
-</div>
+## ⭐ Thanks for visiting!
+If you enjoy cybersecurity, automation, or Python, feel free to explore my repositories, open an issue, or collaborate on a project.
+**Build • Learn • Share • Improve**
+</div><img width="1536" height="1024" alt="3E10674F-B937-4BD2-A05D-81FDF8AF7B20" src="https://github.com/user-attachments/assets/8ccab89c-ac4d-441e-9345-124fecab5c5e" />
