@@ -11,6 +11,8 @@
 <p>
 <img src="https://skillicons.dev/icons?i=python,bash,powershell"/>
 </p>
+---
+#
 ### Operating Systems
 <p>
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows"/>
