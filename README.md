@@ -6,8 +6,6 @@
 <img src="https://komarev.com/ghpvc/?username=wkt21&label=Profile%20Views&color=0e75b6&style=flat"/>
 </div>
 ---
-
----
 # 🛠 Tech Stack
 ### Languages
 <p>
@@ -22,10 +20,6 @@
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode"/>
 </p>
 ---
-# WKT12 Cyber Operations Manual
-
-![Cover](../artwork/cyber-operations-manual.png)
-
 ## Description
 
 This episode explores practical cyber operations, defensive strategies, and building repeatable workflows for security teams.
