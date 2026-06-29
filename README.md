@@ -4,7 +4,7 @@
 # 👋 Hi, I'm Frank Francis
 ### 🛡️ Cybersecurity Practitioner • Python Developer • Threat Intelligence • SOC Engineering
     
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=00FF41&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Cybersecurity+Practitioner;Python+Developer;SOC+Engineering"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=00FF41&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Cybersecurity+Focus;Detection+Engineering;Python+Automation;Threat+Intelligence;" alt="Typing SVG"/>
 <img src="https://komarev.com/ghpvc/?username=wkt21&label=Profile%20Views&color=0e75b6&style=flat"/>
 </div>
 
@@ -41,6 +41,8 @@ This episode explores practical cyber operations, defensive strategies, and buil
 - Related GitHub projects
 
 ## 🎙️ Spotify Episodes
+
+- [Spotify Podcast RSS Feed](https://creators.spotify.com/pod/show/unknown-sender)
 
 <!--START_SECTION:spotify-->
 - [Episode 1: WKT12 Cyber Operations Manual](https://open.spotify.com/episode/79ypd2MNUGnYcrZ0IX39Rg?si=EVePi1ABRLSssjydJdfzxw)
