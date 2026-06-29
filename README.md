@@ -1,8 +1,10 @@
 <div align="center">
+<img src="https://skillicons.dev/icons?i=linux" alt="Linux Penguin Logo" style="width: 60px; height: 60px;"/>
+
 # 👋 Hi, I'm Frank Francis
 ### 🛡️ Cybersecurity Practitioner • Python Developer • Threat Intelligence • SOC Engineering
     
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=00FF41&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Cybersecurity+Content+Creator;Detection+Engineer;Threat+Intelligence"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=00FF41&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Cybersecurity+is+a+lifestyle;Python+for+Automation;Defense+in+Depth;Build+Share+Learn+Improve"/>
 <img src="https://komarev.com/ghpvc/?username=wkt21&label=Profile%20Views&color=0e75b6&style=flat"/>
 </div>
 
@@ -75,6 +77,42 @@ This episode explores practical cyber operations, defensive strategies, and buil
 <!--END_SECTION:spotify-->
 
 ---
+# 👕 WKT12 Merch
+
+<div align="center">
+
+### Exclusive Cybersecurity Apparel by WKT12
+
+Check out our themed collection designed for cybersecurity professionals and enthusiasts!
+
+<table>
+<tr>
+<td align="center">
+<img src="https://via.placeholder.com/250x250?text=SOC+Handler+Shirt" alt="SOC Handler - While Coding Shirt" style="border-radius: 10px; width: 220px;"/>
+<br/><b>SOC Handler</b><br/>
+<i>While Coding():</i><br/>
+Limited Edition
+</td>
+<td align="center">
+<img src="https://via.placeholder.com/250x250?text=WKT12+Badge+Shirt" alt="WKT12 Badge Shirt" style="border-radius: 10px; width: 220px;"/>
+<br/><b>WKT12 Official</b><br/>
+<i>Penguin Badge Design</i><br/>
+Classic Collection
+</td>
+<td align="center">
+<img src="https://via.placeholder.com/250x250?text=Building+WKT+Shirt" alt="Building WKT - Automation Shirt" style="border-radius: 10px; width: 220px;"/>
+<br/><b>Building WKT</b><br/>
+<i>while building_wkt():</i><br/>
+Limited Edition
+</td>
+</tr>
+</table>
+
+All designs feature premium quality and are available now! 🔐
+
+</div>
+
+---
 # 📊 GitHub Statistics
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=wkt21&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -102,6 +140,8 @@ This episode explores practical cyber operations, defensive strategies, and buil
 
 ---
 <div align="center">
+<img src="https://skillicons.dev/icons?i=linux" alt="Linux Penguin Logo" style="width: 50px; height: 50px;"/>
+
 ## ⭐ Thanks for visiting!
 If you enjoy cybersecurity, automation, or Python, feel free to explore my repositories, open an issue, or collaborate on a project.
 **Build • Learn • Share • Improve**
