@@ -64,19 +64,16 @@ Check out our themed collection designed for cybersecurity professionals and ent
 <table>
 <tr>
 <td align="center">
-<img src="https://via.placeholder.com/250x250?text=SOC+Handler+Shirt" alt="SOC Handler - While Coding Shirt" style="border-radius: 10px; width: 220px;"/>
+<img src="https://via.placeholder.com/250x250?text=SOC+Handler+Shirt" alt="SOC Hand
 <br/><b>SOC Handler</b><br/>
 <i>While Coding():</i><br/>
 Limited Edition
 </td>
 <td align="center">
-<img src="https://via.placeholder.com/250x250?text=WKT12+Badge+Shirt" alt="WKT12 Badge Shirt" style="border-radius: 10px; width: 220px;"/>
-<br/><b>WKT12 Official</b><br/>
-<i>Penguin Badge Design</i><br/>
-Classic Collection
-</td>
-<td align="center">
-<img src="https://via.placeholder.com/250x250?text=Building+WKT+Shirt" alt="Building WKT - Automation Shirt" style="border-radius: 10px; width: 220px;"/>
+<img width="1170" height="1603" alt="IMG_1875" src="https://github.com/user-attachments/assets/15093677-dc3a-4bd8-ae19-3ec73a3cd1f8" />
+<img width="1170" height="1411" alt="IMG_1879" src="https://github.com/user-attachments/assets/ecbfa5b7-ad8d-4161-8de4-0b0f90944bde" />
+<img width="1402" height="1122" alt="7EB531B0-63D8-4B86-8127-E5BEE3339C21" src="https://github.com/user-attachments/assets/79ea0b5a-4993-4c7b-8dff-fbffbc30fb3e" />
+
 <br/><b>Building WKT</b><br/>
 <i>while building_wkt():</i><br/>
 Limited Edition
