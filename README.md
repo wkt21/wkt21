@@ -13,6 +13,23 @@
 ---
 
 # 🧰 Technical Stack
+# 🦂 Kali × WKT12 Offensive Security Icons
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=kalilinux" />
+<img src="https://skillicons.dev/icons?i=nmap" />
+<img src="https://skillicons.dev/icons?i=metasploit" />
+<img src="https://skillicons.dev/icons?i=burpsuite" />
+<img src="https://skillicons.dev/icons?i=wireshark" />
+<img src="https://skillicons.dev/icons?i=aircrackng" />
+<img src="https://skillicons.dev/icons?i=hydra" />
+<img src="https://skillicons.dev/icons?i=johntheripper" />
+<img src="https://skillicons.dev/icons?i=sqlmap" />
+<img src="https://skillicons.dev/icons?i=hashcat" />
+<img src="https://skillicons.dev/icons?i=netcat" />
+<img src="https://skillicons.dev/icons?i=tmux" />
+</p>
+
 
 # 🧰 Tools I'm Known For
 
