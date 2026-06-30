@@ -1,10 +1,9 @@
 
-Add it to this and take the old one out WKT12 Penguin WKT12.tech Cybersecurity
-
 👋 Hi, I’m Frank Francis
 
 🛡️ Cybersecurity Practitioner • Python Developer • Threat Intelligence • SOC Engineering
 
+![WKT12.tech](https://img.shields.io/badge/WKT12.tech-Build_Defend_Automate-0a0a0a?style=for-the-badge&logo=linux&logoColor=white)
 
 
 Languages
@@ -132,14 +131,3 @@ All designs feature premium quality and are available now! 🔐
 ⭐ Thanks for visiting!
 
 If you enjoy cybersecurity, automation, or Python, feel free to explore my repositories, open an issue, or collaborate on a project. Build • Learn • Share • Improve
-
-
-
-
-$ python3 feds_monitor.py
-[2026-06-30 09:29:00] [FEDS] INFO — Surveillance initialized for: wkt21
-[2026-06-30 09:29:01] [FEDS] INFO — Reviewing tax return for 2025
-[2026-06-30 09:29:02] [FEDS] WARNING — Internet history audit triggered
-[2026-06-30 09:29:02] [FEDS] ERROR — Suspicious activity detected: search: 'how to disappear online'
-[2026-06-30 09:29:03] [FEDS] DEBUG — Breakfast recorded: Black coffee, eggs, avocado toast
-[2026-06-30 09:29:03] [FEDS] ERROR — Breakfast flagged as 'trend‑risk'
