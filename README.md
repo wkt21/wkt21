@@ -24,6 +24,87 @@
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode"/>
 
 ---
+# 🛡️ WKT12.tech Script Arsenal
+
+> Offensive Security • Defensive Research • Automation • Open Source
+>
+> Built by **Frank C. Francis**
+
+<p align="center">
+
+![Linux](https://img.shields.io/badge/Linux-Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python)
+![Bash](https://img.shields.io/badge/Bash-Scripting-black?style=for-the-badge&logo=gnubash)
+![PowerShell](https://img.shields.io/badge/PowerShell-7-blue?style=for-the-badge&logo=powershell)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker)
+![GitHub](https://img.shields.io/badge/Open_Source-GitHub-black?style=for-the-badge&logo=github)
+
+</p>
+
+---
+
+# ⚡ Script Collection
+
+| Tool | Description |
+|------|-------------|
+| 🐍 Python | Automation & Security Scripts |
+| 🖥 Bash | Linux Administration |
+| 💠 PowerShell | Windows Automation |
+| 🛡 Recon | Network Enumeration |
+| 📡 OSINT | Information Gathering |
+| 🔐 Crypto | Encryption Utilities |
+| 🌐 Web | Web Security Tools |
+| 📊 Logs | Log Analysis |
+| ⚙️ DevOps | Infrastructure Scripts |
+| ☁️ Cloud | AWS / Azure Utilities |
+
+---
+
+# 🔥 Featured Projects
+
+- 🛡 Network Automation
+- 📡 Tailscale Utilities
+- 🐧 Linux Administration
+- ⚙️ Docker Deployments
+- 🔍 OSINT Toolkit
+- 🔐 Cryptography Projects
+- 📚 Podcast Resources
+- 📖 Book Companion Code
+
+---
+
+# 🧰 Technologies
+
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=flat-square&logo=python)
+![Bash](https://img.shields.io/badge/Bash-Expert-black?style=flat-square&logo=gnubash)
+![PowerShell](https://img.shields.io/badge/PowerShell-Advanced-blue?style=flat-square&logo=powershell)
+![Git](https://img.shields.io/badge/Git-Version_Control-orange?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=flat-square&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-Kali-557C94?style=flat-square&logo=kalilinux)
+![Markdown](https://img.shields.io/badge/Markdown-README-000000?style=flat-square&logo=markdown)
+
+---
+
+# 📈 Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=wkt12&style=for-the-badge)
+
+---
+
+# 🤝 Connect
+
+- 🌐 **Website:** https://wkt12.tech
+- 🎙 Podcast
+- 📚 Books
+- 💻 GitHub Projects
+
+---
+
+> *"Build. Learn. Share. Secure."*
+>
+> **— WKT12.tech**
+
+---
 
 # 📡 Description
 
