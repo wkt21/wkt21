@@ -22,6 +22,8 @@
 
 ### 🔧 Development Tools  
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode"/>
+---
+<img width="540" height="325" alt="globe giphy" src="https://github.com/user-attachments/assets/f4ede952-0f78-4724-90ae-166acf1fd7f7" />
 
 ---
 # 🛡️ WKT12.tech Script Arsenal
