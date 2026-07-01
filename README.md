@@ -1,4 +1,5 @@
-<img width="1254" height="1254" alt="40A09779-5E43-4C5E-9980-6FD331829EF4" src="https://github.com/user-attachments/assets/6acfb6ae-e303-42bd-a6b8-1fb886fd4e5d" />
+<img width="498" height="280" alt="hacker-gif-8" src="https://github.com/user-attachments/assets/5c4ca843-f81a-468f-a4a9-d596f7a8690a" />
+
 
 <img width="540" height="325" alt="globe giphy" src="https://github.com/user-attachments/assets/f4ede952-0f78-4724-90ae-166acf1fd7f7" />
 
