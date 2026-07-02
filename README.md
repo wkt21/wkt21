@@ -145,32 +145,6 @@ This episode explores practical cyber operations, defensive strategies, and buil
 
 ---
 
-# 👕 WKT12 Merch Showcase
-
-<div align="center">
-
-### Exclusive Cybersecurity Apparel by WKT12
-
-<table>
-<tr>
-<td align="center">
-<img src="https://via.placeholder.com/250x250?text=SOC+Handler+Shirt" />
-<br/><b>SOC Handler</b><br/>
-<i>While Coding():</i><br/>
-Limited Edition
-</td>
-
-<td align="center">
-<img width="1170" height="1603" src="https://github.com/user-attachments/assets/15093677-dc3a-4bd8-ae19-3ec73a3cd1f8" />
-<img width="1170" height="1411" src="https://github.com/user-attachments/assets/ecbfa5b7-ad8d-4161-8de4-0b0f90944bde" />
-<img width="1402" height="1122" src="https://github.com/user-attachments/assets/79ea0b5a-4993-4c7b-8dff-fbffbc30fb3e" />
-<br/><b>Building WKT</b><br/>
-<i>while building_wkt():</i><br/>
-Limited Edition
-</td>
-</tr>
-</table>
-
 🔐 Premium quality. Designed for cybersecurity professionals.
 
 </div>
