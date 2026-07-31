@@ -13,12 +13,24 @@
 
 ---
 
-# 📊 Live GitHub Analytics
+# 📊 Live GitHub Analytics — wkt21
 
-**Auto-updating dashboard** of repositories, push/pull activity, views & unique visitors.
+**Auto-updating dashboard** of repositories, push/pull activity, and traffic (visitors/clones).
 
-🔗 **[wkt21/live-github-analytics](https://github.com/wkt21/live-github-analytics)**  
-Refreshes every 6 hours via GitHub Actions • Traffic API + events + repo snapshot
+> Updated automatically by GitHub Actions every 6 hours (and on demand).
+
+---
+
+## Quick Stats (live badges)
+
+![GitHub User](https://img.shields.io/badge/user-wkt21-blue?logo=github)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwkt21&query=%24.public_repos&label=public%20repos&color=success)
+![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwkt21&query=%24.followers&label=followers&color=informational)
+![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwkt21&query=%24.following&label=following)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=wkt21&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![wkt21's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkt21&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwkt21&query=%24.public_repos&label=public%20repos&color=success)
 ![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwkt21&query=%24.followers&label=followers&color=informational)
