@@ -6,13 +6,7 @@
   <img width="540" height="325" alt="globe giphy" src="https://github.com/user-attachments/assets/f4ede952-0f78-4724-90ae-166acf1fd7f7" />
 </p>
 
----
-
-# 📊 Live Data · wkt21
-
-
-
-<img src="https://komarev.com/ghpvc/?username=wkt21&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+——
 
 ### 🌍 Live Visitor Map & Locations
 
