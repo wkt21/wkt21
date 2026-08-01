@@ -20,12 +20,6 @@
 
 <br/><br/>
 
-<!-- Top visiting countries as flags -->
-<img src="https://github-visitor-counter-tau.vercel.app/api?username=wkt21&displayMode=topCountries&theme=github_dark&columns=4&maxflags=12&showcount=true" alt="Top visitor countries"/>
-
-<br/>
-
-<em>Map locations are approximate (public IP / service geo). GitHub proxies images, so pin-level accuracy requires a click-through to the map.</em>
 
 ---
 
