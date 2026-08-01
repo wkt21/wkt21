@@ -1,79 +1,107 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="DARK_IMAGE_URL">
+  <source media="(prefers-color-scheme: light)" srcset="LIGHT_IMAGE_URL">
+  <img src="LIGHT_IMAGE_URL">
+</picture>
 
-  <img width="1254" height="1254" alt="Photo" src="https://github.com/user-attachments/assets/6099f175-be9c-486e-bac6-35c3f12bf91e" />
+
+
+<!-- ===================================================== -->
+<!--                CINEMATIC HEADER SECTION               -->
+<!-- ===================================================== -->
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/6099f175-be9c-486e-bac6-35c3f12bf91e">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/6099f175-be9c-486e-bac6-35c3f12bf91e">
+  <img width="1254" height="1254" alt="Frank Francis Cinematic Portrait">
+</picture>
 </p>
 
 <p align="center">
-  <img width="540" height="325" alt="globe giphy" src="https://github.com/user-attachments/assets/f4ede952-0f78-4724-90ae-166acf1fd7f7" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/f4ede952-0f78-4724-90ae-166acf1fd7f7">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/f4ede952-0f78-4724-90ae-166acf1fd7f7">
+  <img width="540" height="325" alt="Cinematic Globe Animation">
+</picture>
 </p>
 
-——
+---
 
-### 🌍 Live Visitor Map & Locations
+# 🎞️ **Frank C. Francis — Cybersecurity Cinematic Universe**
+### 🛡️ Threat Intelligence • Python Engineering • SOC Architecture
 
-<!-- Click badge → interactive map of approximate visitor locations (IP geo on click-through) -->
-<a href="https://gitviewsmap.onrender.com/wkt21">
-
-<br/><br/>
-
-<!-- Country flags of profile visitors (Flag Map mode) -->
-<img src="https://github-visitor-counter-tau.vercel.app/api?username=wkt21&displayMode=flagMap&mapSize=medium&theme=github_dark&label=Visitors" alt="Visitor flag map"/>
-
-<br/><br/>
-
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1200&color=FFD700&center=true&vCenter=true&width=900&lines=WKT12.tech+Cyber+Operations;Threat+Intelligence+Engineering;Python+Automation;Detection+Engineering;Digital+Defense+Architecture">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1200&color=000000&center=true&vCenter=true&width=900&lines=WKT12.tech+Cyber+Operations;Threat+Intelligence+Engineering;Python+Automation;Detection+Engineering;Digital+Defense+Architecture">
+  <img alt="Typing Banner">
+</picture>
+</p>
 
 ---
 
-[![wkt21's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkt21&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkt21&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+# 🌍 **Live Visitor Map & Analytics**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=wkt21&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wkt21&theme=react-dark&hide_border=true&area=true"/>
-
-### 🐍 Contribution Snake
-
-![Contribution Snake](https://raw.githubusercontent.com/wkt21/wkt21/output/github-contribution-grid-snake.svg)
-
-![Contribution Snake (Dark)](https://raw.githubusercontent.com/wkt21/wkt21/output/github-contribution-grid-snake-dark.svg)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=wkt21&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-**Live traffic & repo dashboard** → [wkt21/live-github-analytics](https://github.com/wkt21/live-github-analytics)
-
-</div>
+<p align="center">
+  <a href="https://gitviewsmap.onrender.com/wkt21">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-visitor-counter-tau.vercel.app/api?username=wkt21&displayMode=flagMap&mapSize=medium&theme=github_dark&label=Visitors">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-visitor-counter-tau.vercel.app/api?username=wkt21&displayMode=flagMap&mapSize=medium&theme=light&label=Visitors">
+      <img alt="Visitor Map">
+    </picture>
+  </a>
+</p>
 
 ---
 
-# 👋 Hi, I'm Frank Francis
-### 🛡️ Cybersecurity Practitioner • Python Developer • Threat Intelligence • SOC Engineering
+# 🎬 **Cinematic GitHub Analytics**
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=00FF41&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Cybersecurity+Focus;Detection+Engineering;Python+Automation;Threat+Intelligence;" />
-</div>
+<p align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wkt21&show_icons=true&theme=radical&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=wkt21&show_icons=true&theme=default&hide_border=true">
+  <img alt="GitHub Stats">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wkt21&layout=compact&theme=radical&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wkt21&layout=compact&theme=default&hide_border=true">
+  <img alt="Top Languages">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=wkt21&theme=radical&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=wkt21&theme=default&hide_border=true">
+  <img alt="GitHub Streak">
+</picture>
+
+</p>
 
 ---
 
-# 🧰 Technical Stack
+# 🐍 **Contribution Snake (Auto Dark/Light)**
 
-<div align="center">
-
-### 🐍 Languages  
-<img src="https://skillicons.dev/icons?i=python,bash,powershell"/>
-
-### 💻 Operating Systems  
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows"/>
-
-### 🔧 Development Tools  
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode"/>
-
-</div>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wkt21/wkt21/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wkt21/wkt21/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Snake">
+</picture>
+</p>
 
 ---
 
-# 🛡️ WKT12.tech Script Arsenal
+# 🧰 **Technical Stack (Cinematic Icons)**
 
-> Offensive Security • Defensive Research • Automation • Open Source  
-> Built by **Frank C. Francis**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,ubuntu,windows,docker,git,github,vscode" />
+</p>
+
+---
+
+# 🛡️ **WKT12.tech Arsenal — The Cyber Ops Vault**
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
@@ -90,88 +118,50 @@
 
 ---
 
-# ⚡ Script Collection
-
-| Tool | Description |
-|------|-------------|
-| 🐍 Python | Automation & Security Scripts |
-| 🖥 Bash | Linux Administration |
-| 💠 PowerShell | Windows Automation |
-| 🛡 Recon | Network Enumeration |
-| 📡 OSINT | Information Gathering |
-| 🔐 Crypto | Encryption Utilities |
-| 🌐 Web | Web Security Tools |
-| 📊 Logs | Log Analysis |
-| ⚙️ DevOps | Infrastructure Scripts |
-| ☁️ Cloud | AWS / Azure Utilities |
-
----
-
-# 🔥 Featured Projects
+# 🔥 **Featured Projects (Cinematic Cards)**
 
 | Project | Description |
-|---------|-------------|
-| 📊 [Live GitHub Analytics](https://github.com/wkt21/live-github-analytics) | Auto-updating visitors, repos, push/pull & traffic dashboard |
-| 🛡 [Wazuh + Intel Center](https://github.com/wkt21/wkt12-wazuh-setup) | Plug-and-play Wazuh FIM, LFI rules, RCA correlation & webhook |
-| 🛡 Network Automation | Infrastructure & network tooling |
-| 📡 Tailscale Utilities | Secure networking helpers |
-| 🐧 Linux Administration | Ops & hardening scripts |
-| ⚙️ Docker Deployments | Containerized stacks |
-| 🔍 OSINT Toolkit | Information gathering |
-| 🔐 Cryptography Projects | Encryption utilities |
-| 📚 Podcast Resources | Companion material |
-| 📖 Book Companion Code | Code for published work |
+|--------|-------------|
+| 📊 **Live GitHub Analytics** | Auto-updating visitors, repo traffic, push/pull telemetry |
+| 🛡 **Wazuh + Intel Center** | FIM, LFI rules, RCA correlation, webhook automation |
+| 🐧 **Linux Ops** | Hardening, automation, infrastructure |
+| ⚙️ **Docker Deployments** | Containerized stacks |
+| 📡 **OSINT Toolkit** | Recon & intelligence gathering |
+| 🔐 **Crypto Utilities** | Encryption & secure tooling |
+| 🎙 **Podcast Resources** | Companion material |
+| 📖 **Book Code** | Code for published work |
 
 ---
 
-# 🧰 Technologies
+# 🎙️ **Spotify Episodes**
+
+- WKT12 Cyber Operations Manual  
+- The Art in Vulnerability  
+- Cybersecurity’s Architect  
+- Elite Critical Thinking  
+- Endpoint Security  
+
+---
+
+# 🤝 **Connect**
 
 <p align="center">
-
-![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
-![Bash](https://img.shields.io/badge/Bash-Expert-black?style=for-the-badge&logo=gnubash)
-![PowerShell](https://img.shields.io/badge/PowerShell-Advanced-blue?style=for-the-badge&logo=powershell)
-![Git](https://img.shields.io/badge/Git-Version_Control-orange?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-Kali-557C94?style=for-the-badge&logo=kalilinux)
-![Markdown](https://img.shields.io/badge/Markdown-README-000000?style=for-the-badge&logo=markdown)
-
+  <a href="https://github.com/wkt21"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://wkt12.tech"><img src="https://img.shields.io/badge/Website-wkt12.tech-0e75b6?style=for-the-badge"/></a>
 </p>
 
 ---
 
-# 🎙️ Spotify Episodes
-
-- [Episode 1: WKT12 Cyber Operations Manual](https://open.spotify.com/episode/79ypd2MNUGnYcrZ0IX39Rg?si=EVePi1ABRLSssjydJdfzxw)
-- [Episode 2: THE ART IN VULNERABILITY](https://open.spotify.com/episode/1RHA8X4v70UocPQF0pD9bh?si=uRYiO1msSkKES2XG3fClZw)
-- [Episode 3: Cybersecurity's Architect](https://open.spotify.com/episode/4l2pDAB5nBUgYkxFW3NP2s?si=dLL3ekqDSsGCqMePZm9jww)
-- [Episode 4: Elite Critical Thinking](https://open.spotify.com/episode/4KQsiA8ilfet4GNtNUOXPj?si=CPnnU68TQ5OERzVGzsFCIQ)
-- [Episode 5: End Point Security](https://open.spotify.com/episode/05H3xKc9YN01FVPf7MDkOC?si=AWN-1iePSTysE5BitdN-Bg)
-
----
-
-# 🤝 Connect
-
 <p align="center">
-<a href="https://github.com/wkt21"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://wkt12.tech"><img src="https://img.shields.io/badge/Website-wkt12.tech-0e75b6?style=for-the-badge"/></a>
+  <em>"Build. Learn. Share. Secure."</em><br/>
+  <strong>— WKT12.tech</strong>
 </p>
 
-- 🌐 **Website:** https://wkt12.tech
-- 🎙 Podcast
-- 📚 Books
-- 💻 GitHub Projects
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux" width="50"/>
+</p>
 
----
-
-<div align="center">
-
-> *"Build. Learn. Share. Secure."*  
-> **— WKT12.tech**
-
-<img src="https://skillicons.dev/icons?i=linux" width="50" height="50"/>
-
-## ⭐ Thanks for visiting  
-**Build • Learn • Share • Improve**
-
-</div>
+<p align="center">
+  <strong>⭐ Thanks for visiting</strong><br/>
+  Build • Learn • Share • Improve
+</p>
