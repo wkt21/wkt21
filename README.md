@@ -6,7 +6,15 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/6099f175-be9c-486e-bac6-35c3f12bf91e">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/6099f175-be9c-486e-bac6-35c3f12bf91e">
-  <img width="1254" height="1254" alt="Frank Francis Cinematic Portrait">
+  <img width="650" height="650" alt="Frank Francis Cinematic Portrait">
+</picture>
+</p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/f4ede952-0f78-4724-90ae-166acf1fd7f7">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/f4ede952-0f78-4724-90ae-166acf1fd7f7">
+  <img width="420" height="250" alt="Cinematic Globe Animation">
 </picture>
 </p>
 
