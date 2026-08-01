@@ -12,8 +12,6 @@
 
 <!-- Click badge → interactive map of approximate visitor locations (IP geo on click-through) -->
 <a href="https://gitviewsmap.onrender.com/wkt21">
-  <img src="https://gitviewsmap.onrender.com/badge/wkt21.svg" alt="GitViewsMap — visitor badge & map" />
-</a>
 
 <br/><br/>
 
