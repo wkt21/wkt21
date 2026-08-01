@@ -1,4 +1,4 @@
-<p align="center">
+KKK you know what I mean<p align="center">
   <img width="1254" height="1254" alt="Photo" src="https://github.com/user-attachments/assets/6099f175-be9c-486e-bac6-35c3f12bf91e" />
 </p>
 
@@ -10,12 +10,7 @@
 
 # 📊 Live Data · wkt21
 
-<div align="center">
 
-![GitHub User](https://img.shields.io/badge/user-wkt21-blue?logo=github&style=for-the-badge)
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwkt21&query=%24.public_repos&label=public%20repos&color=success&style=for-the-badge)
-![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwkt21&query=%24.followers&label=followers&color=informational&style=for-the-badge)
-![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fwkt21&query=%24.following&label=following&style=for-the-badge)
 
 <img src="https://komarev.com/ghpvc/?username=wkt21&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
