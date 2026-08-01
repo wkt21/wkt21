@@ -1,4 +1,4 @@
-KKK you know what I mean<p align="center">
+
   <img width="1254" height="1254" alt="Photo" src="https://github.com/user-attachments/assets/6099f175-be9c-486e-bac6-35c3f12bf91e" />
 </p>
 
