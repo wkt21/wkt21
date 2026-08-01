@@ -9,7 +9,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/f4ede952-0f78-4724-90ae-166acf1fd7f7">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/f4ede952-0f78-4724-90ae-166acf1fd7f7">
-  <img width="540" height="325" alt="Cinematic Globe Animation">
+  <img width=“420" height="375”ttalt="Cinematic Globe Animation">
 </picture>
 </p>
 
